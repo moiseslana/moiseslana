@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil de Moisés Lana 😁
 
 ## Sobre mim
-Meu nome é Moises Martins Lana, tenho 18 anos, estou começando na área da programação e pretendo evoluir cada vez mais no conhecimento tecnológico e aprofundar os conheciemntos que a área fornece! 
+Meu nome é Moises Martins Lana, tenho 19 anos, estou começando na área da programação e pretendo evoluir cada vez mais no conhecimento tecnológico e aprofundar os conheciemntos que a área fornece! 
 
  <div>
    <a href="https://github.com/moiseslana">
