@@ -31,7 +31,7 @@ Sigo estudando, praticando e ampliando minhas habilidades, sempre com a mentalid
 
 
 ## 🌐 Entre em conato comigo!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/moiseslana?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailto:moiseslana60@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moiseslana?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BSyHQuZIQRjKv%2B1bYX5VRdw%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailto:moiseslana60@gmail.com) 
 
 <br><br>
 
