@@ -7,9 +7,11 @@
 
   
 # 💫 Sobre mim:
-Meu nome é Moises Lameo Lana, tenho 19 anos e estou iniciando minha jornada na área da programação. Estou determinado a evoluir cada vez mais no mundo da tecnologia, buscando aprofundar meus conhecimentos, explorar novas ferramentas e entender como cada aspecto desse universo pode ser aplicado na prática. Quero construir uma base sólida, desenvolver habilidades relevantes para o mercado e crescer continuamente, sempre mantendo a curiosidade e a vontade de aprender que a área exige.
+Meu nome é Moises Lameo Lana, tenho 19 anos e estou dando meus primeiros passos no universo da programação, com foco em desenvolvimento Front-End. Sou movido pela vontade de aprender e pela curiosidade em entender como a tecnologia funciona por trás das interfaces que usamos todos os dias.
 
+Busco evoluir constantemente, aprofundando meus conhecimentos em HTML, CSS, JavaScript e demais ferramentas essenciais para criar experiências modernas e funcionais. Meu objetivo é construir uma base forte, desenvolver projetos cada vez mais completos e me preparar para conquistar minha primeira oportunidade na área.
 
+Sigo estudando, praticando e ampliando minhas habilidades, sempre com a mentalidade de crescimento contínuo e a determinação de me tornar um desenvolvedor capaz de entregar soluções de qualidade para o mercado.
 
 
 ## 🌐 Entre em conato comigo!
