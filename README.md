@@ -34,7 +34,10 @@ Landing page atraente para um produto/serviço (Balle Bot).
 <br>
 
 <strong> Card Profile:  https://moiseslana.github.io/Card_Profile/ </strong> <br>
-Landing page atraente para um produto/serviço (Balle Bot).
+Um card profile simples sobre eu.
+
+<strong> Lain - Landing Page: https://moiseslana.github.io/Lain_Landing_Page/ </strong> <br>
+Uma landing page com estética minimalista baseado em um anime chamado Serial Experiments Lain.
 
 <br><br>
 
