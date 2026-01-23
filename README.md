@@ -15,29 +15,8 @@ Sigo estudando, praticando e ampliando minhas habilidades, sempre com a mentalid
 <br><br>
 
 
-# Meus principais projetos:
 
-<strong>  Landing Page: https://moiseslana.github.io/Tela_Login/ </strong> <br>
-Uma tela de login simples e responsiva.
-<br>
 
-<strong> Site de um Quiz:  https://moiseslana.github.io/Quiz_para_Programadores/ </strong> <br>
-Quiz interativo para testar conhecimentos de programação.
-<br>
-
-<strong> Landing Page 2: https://moiseslana.github.io/Tela_Login_2/ </strong> <br>
-Uma segunda página de login com design diferente e moderno.
-<br>
-
-<strong> Landing Page - Balle Bot: https://moiseslana.github.io/Landing-Page---Balle-Bot/ </strong> <br>
-Landing page atraente para um produto/serviço (Balle Bot).
-<br>
-
-<strong> Card Profile:  https://moiseslana.github.io/Card_Profile/ </strong> <br>
-Um card profile simples sobre eu.
-
-<strong> Lain - Landing Page: https://moiseslana.github.io/Lain_Landing_Page/ </strong> <br>
-Uma landing page com estética minimalista baseado em um anime chamado Serial Experiments Lain.
 
 <br><br>
 
