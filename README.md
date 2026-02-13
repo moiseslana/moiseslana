@@ -14,6 +14,19 @@ Busco evoluir constantemente, aprofundando meus conhecimentos em HTML, CSS, Java
 Sigo estudando, praticando e ampliando minhas habilidades, sempre com a mentalidade de crescimento contínuo e a determinação de me tornar um desenvolvedor capaz de entregar soluções de qualidade para o mercado. <br><br>
 <br><br>
 
+# Meus principais projetos:
+
+<strong> 1- Fundo Mágico: https://moiseslana.github.io/Fundo_Magico/ </strong> <br>
+Gerador de backgrounds personalizados que transforma descrições em código HTML e CSS pronto para uso.
+
+<strong> 2- Microsoft Menu: https://moiseslana.github.io/Microsoft_Menu/ </strong> <br>
+Réplica do menu e da seção principal da Microsoft com foco em fidelidade visual e responsividade usando HTML e CSS.
+
+<strong> 3- Loja Apple: https://moiseslana.github.io/Loja_Apple/ </strong> <br>
+Landing page inspirada na Apple Store com carrossel interativo de produtos desenvolvido em HTML, CSS e JavaScript.
+
+
+
 
 
 
@@ -31,20 +44,6 @@ Sigo estudando, praticando e ampliando minhas habilidades, sempre com a mentalid
 
 <br><br>
 
-# 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=moiseslana&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=moiseslana&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moiseslana&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br><br>
-
-### 🔝 Meus Repositórios
-![](https://github-contributor-stats.vercel.app/api?username=moiseslana&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=moiseslana&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<br><br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
