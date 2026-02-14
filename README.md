@@ -1,8 +1,15 @@
 
 <div align="center">
 
-# Seja bem-vindo ao meu perfil - Desenvolvedor Front-End! <br> <br>  <img align="center" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR1bDF5N3k2bDUxZzgwaWJjYWhlbHNnbHM5YmMwNmZ5dHllaG16YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif"/> <br><br>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=81A1C1&width=435&lines=Mois%C3%A9s+Lana+-+Desenvolvedor+Front-End)](https://git.io/typing-svg)  <br>  <img align="center" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR1bDF5N3k2bDUxZzgwaWJjYWhlbHNnbHM5YmMwNmZ5dHllaG16YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif"/> <br><br>
 <br><br>
+
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moiseslana&theme=city_lights) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moiseslana&theme=city_lights) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moiseslana&theme=city_lights&utcOffset=8) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moiseslana&theme=city_lights) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moiseslana&theme=nord)](https://git.io/streak-stats) |
+| :-: | :-: |
+
 
 
   
@@ -11,7 +18,12 @@ Meu nome é Moises Lameo Lana, tenho 19 anos e estou dando meus primeiros passos
 
 Busco evoluir constantemente, aprofundando meus conhecimentos em HTML, CSS, JavaScript e demais ferramentas essenciais para criar experiências modernas e funcionais. Meu objetivo é construir uma base forte, desenvolver projetos cada vez mais completos e me preparar para conquistar minha primeira oportunidade na área.
 
-Sigo estudando, praticando e ampliando minhas habilidades, sempre com a mentalidade de crescimento contínuo e a determinação de me tornar um desenvolvedor capaz de entregar soluções de qualidade para o mercado. <br><br>
+Sigo estudando, praticando e ampliando minhas habilidades, sempre com a mentalidade de crescimento contínuo e a determinação de me tornar um desenvolvedor capaz de entregar soluções de qualidade para o mercado. 
+
+![undefined - Imgur](https://github.com/user-attachments/assets/f1fa2100-c26d-4a7e-a664-4a9265da1fb2)
+
+
+<br><br>
 <br><br>
 
 # Meus principais projetos:
