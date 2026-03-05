@@ -41,7 +41,10 @@ Réplica do menu e da seção principal da Microsoft com foco em fidelidade visu
 Landing page inspirada na Apple Store com carrossel interativo de produtos desenvolvido em HTML, CSS e JavaScript.
 
 <strong> 4- Tela Login: https://moiseslana.github.io/Tela_Login/ </strong> <br>
-Interface de login moderna e responsiva desenvolvida com HTML e CSS..
+Interface de login moderna e responsiva desenvolvida com HTML e CSS.
+
+<strong> 5- Card Profile: https://moiseslana.github.io/Card_Profile/ </strong> <br>
+Projeto feito a partir de um desafio do Frontend Mentor para praticar HTML e CSS.
 
 
 
