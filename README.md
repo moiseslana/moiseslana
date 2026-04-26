@@ -46,6 +46,8 @@ Interface de login moderna e responsiva desenvolvida com HTML e CSS.
 <strong> 5- Card Profile: https://moiseslana.github.io/Card_Profile/ </strong> <br>
 Projeto feito a partir de um desafio do Frontend Mentor para praticar HTML e CSS.
 
+<strong> 6- Site Estiloso: https://moiseslana.github.io/Site_Estiloso/ </strong> <br>
+Projeto feito a partir de uma prática e estudo através de um vídeo no YouTube.
 
 
 
